@@ -445,34 +445,35 @@ section {
   overflow: hidden;
   height:300px;
   cursor: pointer;
+  border-radius: 30px;
 }
 
 #c1{
-  background-image: url("../img.jpg");
+  background-image: url("../img/maths.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 #c2{
-  background-image: url("../img/.jpg");
+  background-image: url("../img/english.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 #c3{
-  background-image: url("../img.jpg");
+  background-image: url("../img/history.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 #c4{
-  background-image: url("../img/.jpg");
+  background-image: url("../img/physics.jpeg");
   background-position: center;
   background-size: cover;
 }
 
 #c5{
-  background-image: url("../img/.jpg");
+  background-image: url("../img/chemistry.jpeg");
   background-position: center;
   background-size: cover;
 }
